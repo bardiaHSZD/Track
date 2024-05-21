@@ -1,0 +1,72 @@
+{
+    "bardi": {
+        "2024-05-13": {
+            "blender.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:07"
+            },
+            "Nuke": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:07"
+            },
+            "maya.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:07"
+            },
+            "houdinifx.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:00"
+            },
+            "Adobe Premiere Pro.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:00"
+            },
+            "AfterFX.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:00"
+            },
+            "chrome.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:07"
+            },
+            "firefox.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:06"
+            }
+        },
+        "2024-05-21": {
+            "blender.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:02"
+            },
+            "Nuke": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:02"
+            },
+            "maya.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:02"
+            },
+            "houdinifx.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:00"
+            },
+            "Adobe Premiere Pro.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:00"
+            },
+            "AfterFX.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:00"
+            },
+            "chrome.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:01"
+            },
+            "firefox.exe": {
+                "active_time": "0:00:00",
+                "idle_time": "0:00:01"
+            }
+        }
+    }
+}
