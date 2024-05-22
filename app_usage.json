@@ -1,71 +1,71 @@
 {
     "bardi": {
-        "2024-05-13": {
+        "2024-05-20": {
             "blender.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:07"
+                "active_time": "00:00:20",
+                "idle_time": "00:07:49"
             },
             "Nuke": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:07"
+                "active_time": "00:00:33",
+                "idle_time": "00:04:42"
             },
             "maya.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:07"
+                "active_time": "00:00:00",
+                "idle_time": "00:00:00"
             },
             "houdinifx.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:00"
+                "active_time": "00:00:00",
+                "idle_time": "00:00:00"
             },
             "Adobe Premiere Pro.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:00"
+                "active_time": "00:00:00",
+                "idle_time": "00:00:00"
             },
             "AfterFX.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:00"
+                "active_time": "00:00:00",
+                "idle_time": "00:00:00"
             },
             "chrome.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:07"
+                "active_time": "00:00:00",
+                "idle_time": "00:08:05"
             },
             "firefox.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:06"
+                "active_time": "00:00:00",
+                "idle_time": "00:08:05"
             }
         },
         "2024-05-21": {
             "blender.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:02"
+                "active_time": "00:00:10",
+                "idle_time": "00:04:52"
             },
             "Nuke": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:02"
+                "active_time": "00:00:22",
+                "idle_time": "00:03:08"
             },
             "maya.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:02"
+                "active_time": "00:00:00",
+                "idle_time": "00:00:00"
             },
             "houdinifx.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:00"
+                "active_time": "00:00:00",
+                "idle_time": "00:00:00"
             },
             "Adobe Premiere Pro.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:00"
+                "active_time": "00:00:00",
+                "idle_time": "00:00:00"
             },
             "AfterFX.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:00"
+                "active_time": "00:00:00",
+                "idle_time": "00:00:00"
             },
             "chrome.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:01"
+                "active_time": "00:00:00",
+                "idle_time": "00:05:00"
             },
             "firefox.exe": {
-                "active_time": "0:00:00",
-                "idle_time": "0:00:01"
+                "active_time": "00:00:00",
+                "idle_time": "00:05:00"
             }
         }
     }
